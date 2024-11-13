@@ -1,0 +1,12 @@
+@import "./mocha.scss";
+
+.clock {
+    font-weight: bold;
+}
+
+.centerpanebutn {
+    background: $lavender;
+    color: $crust;
+    border-radius: 5px;
+    padding: 0 10px 0 10px;
+}
